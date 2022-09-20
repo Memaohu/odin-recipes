@@ -1,14 +1,12 @@
 .header {
     text-align: center;
     color: #000000;
-    position: relative; top: 250px;
     letter-spacing: 4px;
     
 }
 
 li {
     text-align: center;
-    position: relative; left: 245px; top: 275px;
     list-style: "\2765";
     list-style-position: inside;
     text-decoration: none;
