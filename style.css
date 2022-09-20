@@ -1,0 +1,32 @@
+.header {
+    text-align: center;
+    color: #000000;
+    position: relative; top: 250px;
+    letter-spacing: 4px;
+    
+}
+
+li {
+    text-align: center;
+    position: relative; left: 245px; top: 275px;
+    list-style: "\2765";
+    list-style-position: inside;
+    text-decoration: none;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    margin: 5px 0;
+}
+
+li a:visited {
+    color: #ff5050;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #00b8e6;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+

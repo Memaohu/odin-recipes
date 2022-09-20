@@ -1,0 +1,46 @@
+.header {
+    text-align: center;
+    color: #000000;
+    
+}
+
+.name {
+    font-size: 28px;
+}
+
+.text {
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.list {
+    font-size: 24px;
+}
+
+li {
+    text-align: center;
+    list-style: none;
+    list-style-position: inside;
+    text-decoration: none;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 5px 0;
+}
+
+.directions li {
+    text-align: center;
+    list-style: decimal;
+    list-style-position: inside;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 5px 0;
+}
+
+.current {
+    background-color: rgba(8, 11, 12, 0.664);
+    color: #FFFFFF;
+    font-weight: 700;
+}
